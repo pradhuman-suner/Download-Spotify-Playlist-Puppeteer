@@ -24,8 +24,8 @@ const chromeExecutablePath = 'C:\\Program Files\\Google\\Chrome\\Application\\ch
     
 
     // Replace these values with your Spotify playlist details
-    const playlistId = '29EAuIFb4uQSTNWFnnvSua';
-    const accessToken = 'BQAQy-fzifDhx-yIibX_wlqSNhn7kLWVbHzsKDu2alkiGPmWORHPUaTbSPUj8CrvXwE1fcIacIAC_UJXNLPgseFkIdM2Nmyikl9_MJYBvwyyg5E-IfI';
+    const playlistId = '[PLAYLIST ID]';
+    const accessToken = '[TOKEN]';
 
     const offset = 100;
     const apiUrl = `https://api.spotify.com/v1/playlists/${playlistId}/tracks?offset=${offset}&limit=100`;
