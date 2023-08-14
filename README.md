@@ -1,2 +1,2 @@
-# Download-Spotify-Playlist---Puppeteer-
+# Download Spotify Playlist - Puppeteer-
 A Puppeteer Script to Download Spotify Playlist 
